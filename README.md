@@ -1,5 +1,7 @@
 # CV Template
-CV작성을 위한 
+장진혁(Jinhyeok Jang)
+CV작성을 위한 템플릿 
+
 
 # My CV
 
